@@ -1,4 +1,4 @@
-![icon]()
+![icon](https://raw.githubusercontent.com/GeniusofAB/voice_copy.models/blob/main/assets/spongebob_icon.png)
 
 **Model**: SpongeBob  
 **Description**: A fun voice model inspired by SpongeBob.  
